@@ -1,6 +1,6 @@
 import React from 'react';
 
-const API_KEY = "98f71968ee882b86584029e4a671719f"
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
