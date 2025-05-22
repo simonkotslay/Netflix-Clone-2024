@@ -29,7 +29,6 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "base": "https://github.com/simonkotslay/Netflix-Clone-Original",
     "extends": [
       "react-app",
       "react-app/jest"
