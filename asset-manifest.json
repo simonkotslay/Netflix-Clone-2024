@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simonkotslay.github.io/Netflix-Clone-Original/static/css/main.fadeaf8e.css",
+    "main.js": "/simonkotslay.github.io/Netflix-Clone-Original/static/js/main.970d4c4c.js",
+    "static/media/NetflixLogo.png": "/simonkotslay.github.io/Netflix-Clone-Original/static/media/NetflixLogo.b39480d09d45609d9d6f.png",
+    "index.html": "/simonkotslay.github.io/Netflix-Clone-Original/index.html",
+    "main.fadeaf8e.css.map": "/simonkotslay.github.io/Netflix-Clone-Original/static/css/main.fadeaf8e.css.map",
+    "main.970d4c4c.js.map": "/simonkotslay.github.io/Netflix-Clone-Original/static/js/main.970d4c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fadeaf8e.css",
+    "static/js/main.970d4c4c.js"
+  ]
+}
